@@ -5,7 +5,7 @@ Main .m file is EE8606Assignment5.m
 EEG data gathered using PhysioNet Datasets
 
 ABSTRACT
-The capture and interpretation of electroencephalogram (EEG) signals is an important clinical tool that can help in
+The capture and interpretation of electroencephalogram (EEG) signals is an important clinical tool that can help in
 the diagnosis and treatment of various neurological conditions.
 Epilepsy syndrome is a neurological condition where afflicted
 individuals suffer from unprovoked random seizures, those being
@@ -20,7 +20,7 @@ utilizing signal decomposition techniques, and differing in models
 like support vector machines to convolutional neural networks. A
 MATLAB implementation was attempted utilizing segmentation
 sizes of 3 and 10 seconds as well as utilizing a primarily time and
-frequency based feature set and a signal decomposition based feature set. The results of other machine learning frameworks were
+frequency based feature set and a signal decomposition based feature set. The results of other machine learning frameworks were
 successful in differentiating seizures from normal EEG signals.
 The MATLAB implementation was also successful generating
 high classification accuracy, with logistic regression being the
